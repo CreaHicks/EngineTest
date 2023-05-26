@@ -61,4 +61,10 @@
         thumbnail = "https://raw.githubusercontent.com/nem0/lumixengine_market/master/data/lumix/portal.png",
         root_install = true
     }
+    {
+        name = "Animated Characters",
+        tags = "model, animated",
+        path = "https://raw.githubusercontent.com/nem0/lumixengine_market/master/data/kenney/animated-characters.zip",
+        thumbnail = "https://raw.githubusercontent.com/nem0/lumixengine_market/master/data/kenney/animated-characters.png",
+    },
 }
