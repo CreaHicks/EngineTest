@@ -62,9 +62,9 @@
         root_install = true
     }
     {
-        name = "Animated Characters",
-        tags = "model, animated",
-        path = "https://raw.githubusercontent.com/nem0/lumixengine_market/master/data/kenney/animated-characters.zip",
+        name = "Cars",
+        tags = "model, car, material",
+        path = "https://raw.githubusercontent.com/CreaHicks/EngineTest/main/cars.zip",
         thumbnail = "https://raw.githubusercontent.com/nem0/lumixengine_market/master/data/kenney/animated-characters.png",
     },
 }
