@@ -63,7 +63,7 @@
     },
     {
         name = "Cars",
-        tags = "model, car, material",
+        tags = "model, material",
         path = "https://raw.githubusercontent.com/CreaHicks/EngineTest/main/cars.zip",
         thumbnail = "https://raw.githubusercontent.com/CreaHicks/EngineTest/main/cars_kit.png",
         root_install = true
