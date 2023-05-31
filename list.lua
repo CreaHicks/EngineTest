@@ -60,5 +60,12 @@
         path = "https://raw.githubusercontent.com/nem0/lumixengine_market/master/data/lumix/portal.zip",
         thumbnail = "https://raw.githubusercontent.com/nem0/lumixengine_market/master/data/lumix/portal.png",
         root_install = true
+    },
+    {
+        name = "Stylized Cars",
+        tags = "model, cars, material, stylized",
+        path = "https://raw.githubusercontent.com/nem0/lumixengine_market/master/data/lumix/portal.zip",
+        thumbnail = "https://raw.githubusercontent.com/nem0/lumixengine_market/master/data/lumix/portal.png",
+        root_install = true
     }
 }
