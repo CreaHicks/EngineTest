@@ -65,7 +65,7 @@
         name = "Stylized Cars",
         tags = "model, cars, material, stylized",
         path = "https://raw.githubusercontent.com/CreaHicks/EngineTest/main/cars.zip",
-        thumbnail = "https://raw.githubusercontent.com/CreaHicks/EngineTest/main/cars_kit.lua",
+        thumbnail = "https://raw.githubusercontent.com/CreaHicks/EngineTest/main/cars_kit.png",
         root_install = true
     }
 }
