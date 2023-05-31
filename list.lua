@@ -1,25 +1,25 @@
 {
     {
         name = "Animated Characters 3",
-        tags = "model, animated",
+        tags = "model, animated, stylized",
         path = "https://raw.githubusercontent.com/nem0/lumixengine_market/master/data/kenney/animated-characters.zip",
         thumbnail = "https://raw.githubusercontent.com/nem0/lumixengine_market/master/data/kenney/animated-characters.png",
     },
     {
         name = "Survival Kit",
-        tags = "model, lowpoly",
+        tags = "model, lowpoly, stylized",
         path = "https://raw.githubusercontent.com/nem0/lumixengine_market/master/data/kenney/survival_kit.zip",
         thumbnail = "https://raw.githubusercontent.com/nem0/lumixengine_market/master/data/kenney/survival_kit.png",
     },
     {
         name = "Tower Defense Kit",
-        tags = "model, lowpoly",
+        tags = "model, lowpoly, stylized",
         path = "https://raw.githubusercontent.com/nem0/lumixengine_market/master/data/kenney/tower_defense_kit.zip",
         thumbnail = "https://raw.githubusercontent.com/nem0/lumixengine_market/master/data/kenney/tower_defense_kit.png",
     },
     {
         name = "Racing Kit",
-        tags = "model, lowpoly",
+        tags = "model, lowpoly, stylized",
         path = "https://raw.githubusercontent.com/nem0/lumixengine_market/master/data/kenney/racing_kit.zip",
         thumbnail = "https://raw.githubusercontent.com/nem0/lumixengine_market/master/data/kenney/racing_kit.png",
     },
@@ -31,32 +31,32 @@
     },
     {
         name = "Ultimate Modular Ruins",
-        tags = "model",
+        tags = "model, stylized",
         path = "https://raw.githubusercontent.com/nem0/lumixengine_market/master/data/quaternius/ultimate_modular_ruins.zip",
         thumbnail = "https://raw.githubusercontent.com/nem0/lumixengine_market/master/data/quaternius/ultimate_modular_ruins.png",
     },
     {
         name = "Ultimate Modular Sci-Fi",
-        tags = "model",
+        tags = "model, stylized",
         path = "https://raw.githubusercontent.com/nem0/lumixengine_market/master/data/quaternius/ultimate_modular_scifi.zip",
         thumbnail = "https://raw.githubusercontent.com/nem0/lumixengine_market/master/data/quaternius/ultimate_modular_scifi.png",
     },
     {
         name = "Platformer Pack",
-        tags = "model, lowpoly",
+        tags = "model, lowpoly, stylized",
         path = "https://raw.githubusercontent.com/nem0/lumixengine_market/master/data/quaternius/platformer_pack.zip",
         thumbnail = "https://raw.githubusercontent.com/nem0/lumixengine_market/master/data/quaternius/platformer_pack.png",
     },
     {
         name = "Vehicle Sample",
-        tags = "scene, model, script",
+        tags = "scene, model, script, stylized",
         path = "https://raw.githubusercontent.com/nem0/lumixengine_market/master/data/lumix/vehicle_sample.zip",
         thumbnail = "https://raw.githubusercontent.com/nem0/lumixengine_market/master/data/lumix/vehicle_sample.png",
         root_install = true
     },
     {
         name = "Portal effect",
-        tags = "scene, model, shader, material",
+        tags = "scene, model, shader, material, stylized",
         path = "https://raw.githubusercontent.com/nem0/lumixengine_market/master/data/lumix/portal.zip",
         thumbnail = "https://raw.githubusercontent.com/nem0/lumixengine_market/master/data/lumix/portal.png",
         root_install = true
