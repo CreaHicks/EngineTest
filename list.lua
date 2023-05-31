@@ -64,8 +64,8 @@
     {
         name = "Stylized Cars",
         tags = "model, cars, material, stylized",
-        path = "https://raw.githubusercontent.com/nem0/lumixengine_market/master/data/lumix/portal.zip",
-        thumbnail = "https://raw.githubusercontent.com/nem0/lumixengine_market/master/data/lumix/portal.png",
+        path = "https://raw.githubusercontent.com/CreaHicks/EngineTest/main/cars.zip",
+        thumbnail = "https://raw.githubusercontent.com/CreaHicks/EngineTest/main/cars_kit.lua",
         root_install = true
     }
 }
