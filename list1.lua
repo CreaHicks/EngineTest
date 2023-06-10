@@ -65,6 +65,6 @@
         name = "Stylized Cars",
         tags = "model, cars, material, stylized",
         path = "https://raw.githubusercontent.com/CreaHicks/EngineTest/main/cars.zip",
-        thumbnail = "https://raw.githubusercontent.com/CreaHicks/EngineTest/main/cars_kit.png"
+        thumbnail = "https://raw.githubusercontent.com/CreaHicks/EngineTest/main/CarsThumbnail.png"
     }
 }
