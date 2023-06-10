@@ -66,5 +66,11 @@
         tags = "model, cars, material, stylized",
         path = "https://raw.githubusercontent.com/CreaHicks/EngineTest/main/cars.zip",
         thumbnail = "https://raw.githubusercontent.com/CreaHicks/EngineTest/main/CarsThumbnail.png"
+    },
+    {
+        name = "Stylized City",
+        tags = "model, city, material, stylized",
+        path = "https://raw.githubusercontent.com/CreaHicks/EngineTest/main/StylizedCity.zip",
+        thumbnail = "https://raw.githubusercontent.com/CreaHicks/EngineTest/main/StylizedCityThumbnail.png"
     }
 }
